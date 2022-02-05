@@ -1,14 +1,14 @@
 # Codepath-Pre-Work
 Basic Hello World App-Codepath Pre-work Project
-# NAME_OF_YOUR_APP_HERE
+# HELLO WORLD APP
 
 ### App Description
-`TODO://` Add app description
+`TODO://` A basic app that enables you to change use buttons to change background color and text
 
 ### App Walk-though
 
 
-<img src="http://g.recordit.co/0wgtlo4e2k.gif" width=200><br>
+<img src="http://g.recordit.co/MwPD9wGisv.gif" width=200><br>
 
 
 
@@ -18,8 +18,8 @@ Basic Hello World App-Codepath Pre-work Project
 - [ x] 3. User can tap a button to change the text color of the label.
 
 ### Optional User Stories
-- [ ] 1. User can tap a button to change the color of the background view.
-- [ ] 2. User can tap a button to change the text string of the label - Goodbye 👋.
+- [ x] 1. User can tap a button to change the color of the background view.
+- [ x ] 2. User can tap a button to change the text string of the label - Goodbye 👋.
 - [ ] 3. User can tap on the background view to reset all views to default settings.
 - [ ] 4. User can update the label text with custom text entered into the text field.
    - [ ] a. User can enter text into a text field using the keyboard.
