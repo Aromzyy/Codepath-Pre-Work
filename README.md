@@ -5,7 +5,7 @@ Basic Hello World App-Codepath Pre-work Project
 ### App Description
 `TODO://` A basic app that enables you to change use buttons to change background color and text
 
-### App Walk-though
+### App Walk-through
 
 
 <img src="http://g.recordit.co/MwPD9wGisv.gif" width=200><br>
